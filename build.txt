@@ -1,0 +1,7 @@
+displayName = LuiAFKRebornDLCCN
+author = Ran
+version = 0.1
+modRefernces = LuiAFK Reborn DLC
+translationMod = true
+side = Client
+sorAfter = LuiAFK Reborn DLC
